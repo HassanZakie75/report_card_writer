@@ -1,0 +1,64 @@
+COMMENTS: S1 SC 22/23 M4 01. Crit A
+1=Weak
+2=#E is able to state/outline and applies scientific knowledge and understanding to suggest solutions to problems/solve problems in a given familiar situation. #E also applies information to make judgements.
+3=#E is encouraged to revisit subject and concepts. In addition, #e should make an attempt to read the material and take effective notes in class using strategies like Cornell note-taking/Collaborative note-making/Note-taking/mapping/T-Notes method/5R's of Notes/Sketchnote/Visual Note-taking.
+4=#E is also strongly encouraged to consult the teacher and peers on a regular basis in hopes of gaining a deeper understanding of the subject at hand so that #e is able to describe and apply scientific knowledge and understanding to suggest and solve problems set in familiar situations and suggest solutions to problems set in unfamiliar situations.
+5=Average
+6=#E is able to describe scientific knowledge and understanding to solve problems set in familiar situations and suggest solutions to problems set in unfamiliar situations. #E interprets information to make scientifically supported arguments.
+7=#E is expected to continue exploring the concepts and connecting it to global context. In order to achieve this, #e could use various learning strategies such as effective note taking using Cornell method or Mind Mapping so that #e could explain, analyse and evaluate information to make more scientifically supported judgments.
+8=Strong
+9=#E is able to explain scientific knowledge. #E applies scientific knowledge and understanding to solve problems set in familiar situations and unfamiliar situations. #E could also analyses information to make scientifically supported arguments.He could integrate generate, sort, connect, elaborate to create a concept map so that #e will be consistent in producing an analytical scientific judgement.
+10=Well done! Keep up the good work!
+
+COMMENTS: S1 SC 22/23 M4 02. Crit B
+1=Weak
+2=#N states a problem or question to be tested by a scientific investigation. #E outlines a testable hypothesis using scientific reasoning and knows how to manipulate the variables. #E states how relevant data is collected and designs a safe method.
+3=#N needs to practice writing hypotheses with complete scientific reasoning. Also, needs to practice describing how the variables are manipulated for the experiment using the guiding questions in the task sheet.
+4=#E needs to practice writing hypotheses using guiding questions in the task sheet/lab template.
+5=To maximize the standard of work submitted, #e is advised to do a self-assessment using the rubrics provided.
+6=#E is encouraged to do self-checking using the checklist given in the task sheet before the final submission.
+7=#E is advised to submit the draft to the teacher for constructive feedback.
+8=#E is encouraged to take part in the class discussion to deepen #h understanding and acquire skills to develop effective scientific investigation.
+9=Average
+10=#N outline a problem or question to be tested by a scientific investigation. #E explains a testable hypothesis using scientific reasoning. #E outlines how to manipulate the variables and also outlines how relevant data is collected. #E designs a safe and complete method in which #e selects appropriate materials and equipment.
+11=#E is encouraged to practice core components needed in an experiment in a different context.
+12=To improve the hypothesis writing, #e is advised to explain the hypothesis using different variables and scientific reason.
+13=#E is encouraged to initiate class discussions to deepen #h understanding and acquire skills to develop effective scientific investigation.
+14=#E is encouraged to design and refine the experiment using ATL skill PDCA.
+15=#E is advised to submit the draft to the teacher for constructive feedback.
+16=#E is encouraged to do self-checking using the checklist given in the task sheet before the final submission
+17=A more logical, complete, and safe method is needed to improve the quality of the experiment. This can be done by exploring more scientific investigation via Phet or Science buddies website.
+18=#E is advised to explain how to manipulate the variable by reading similar scientific investigation.
+19=Strong
+20=#N explain a problem to be tested by a scientific investigation very well. #E formulate a testable hypothesis using scientific reasoning and also explain in detail how to manipulate the variables. #E is capable to design a logical, complete and safe method in which #e selects the appropriate materials and equipment. Well done! Keep up the good work!
+
+COMMENTS: S1 SC 22/23 M4 03. Crit C
+1=Weak
+2=#N is able to collect and present data in numerical and/or visual form. In addition, #e could interpret data and explain results Is happy to see that #e attempt to outline the validity of a hypothesis and method based on the outcome of a scientific investigation. Finally, #e is able to outline improvements to the method that would benefit the scientific investigation.
+3=#E is advised to improve #h data presentation skills by using the correct graphical representation.
+4=#E is encouraged to interpret data and outline results using scientific reasoning that #e learned in the lesson.
+5=#E is advised to discuss the validity of a method based on the outcome of a scientific investigation. This can be done by doing self/peer assessment after the experiment.
+6=#E is advised to submit the draft to the teacher for constructive feedback.
+7=#E is advised to explore the method that would benefit the scientific investigation by trying out different experiments via online simulation, such as Phet or Science buddies website.
+8=#E should also focus on #h comprehension of scientific vocabulary and refer to rubrics to achieve the task-specific requirements or expectations.
+9=Average
+10=#N is able to collect , present and organize data in numerical and/or visual forms . In addition , #e could interpret data and explain results using scientific reason accurately.Not only that #e could evaluate the validity of a hypothesis and method based on the outcome of a scientific investigation, #e is also able to explain the improvements to the method that would benefit the scientific investigation.
+11=#E is encouraged to transform the data and interpret the results using scientific reasoning that #e learnt in the lesson.
+12=#E is encourage to give constructive suggestion to improve the validity of a method based on the outcome of a scientific investigation. This can be done by doing discussion after the experiment with teacher or peer.
+13=#E should also master data interpretation skills like graph drawing and data tabulation. This could be done by exploring more experiments via reference book, Phet online simulation.
+14=Strong
+15=#N is able to collect, present, organize and transform data in numerical and/or visual forms. In addition, #e could interpret data and explain results using scientific reason accurately. Is happy to see that #e could discuss the validity of a hypothesis and method based on the outcome of a scientific investigation. Finally, #e is able to describe the improvements to the method that would benefit the scientific investigation.
+
+COMMENTS: S1 SC 22/23 M4 04. Crit D
+1=Weak
+2=#E is able to outline/describe the ways in which science is used to address a specific problem or issue. #E could outline/describe the implications of using science to solve a specific problem. #E applies scientific language to communicate understanding but does so with limited success. #E documents sources with the teacher's guidance.
+3=#E is encouraged to read science news regularly on various media. #E is also encouraged to practice researching using the guided examples given in class or by using BIG 6 skills so that #e is able to describe the ways in which science is applied and used to address a specific problem or issue and discuss the implications.
+4=In addition to this, reviewing rubrics given for specific tasks before submitting work is highly encouraged to improve the quality of work.
+5=#E could use criterion D sentence starters/templates to enhance the information literacy skills.
+6=Average
+7=#E is able to describe the ways in which science is used to address a specific problem or issue. #E could discuss the implications of using science to solve that specific problem. #E usually applies scientific language to communicate understanding and could document sources correctly but not completely.
+8=#E is encouraged to expand #h general knowledge of Science by exploring various resources such as scientific magazines, scientific documentaries on youtube, etc. Going through the rubrics before submitting work to ensure all required components are addressed will improve grades.
+9=#E is encouraged to consistently use scientific terminology when in #h writing. It will be a good idea to incorporate the Generate-Sort-Connect-Elaborate, or research using the Big 6 so that you are able to discuss and evaluate the implications of using science and its application to solve a specific problem or issue.
+10=#E could use criterion D sentence starters/templates to enhance the information literacy skills.
+11=Strong
+12=#E explains the ways in which science is used to address a specific problem or issue. #E discusses and evaluates the implications of using science to solve for a specific problem. #E has consistently applied scientific language to communicate understanding clearly and has accurately documented #h sources. Well done! Keep up the good work!

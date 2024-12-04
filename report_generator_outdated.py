@@ -152,7 +152,7 @@ def random_sentence_selector(sentences):
     random_index = random.randint(0, len(sentences) - 1)
     return sentences[random_index]
 
-# Read the CSV file into a pandas DataFrame
+# Read the CSV file
 def generate_report_card(input_csv, output_txt):
     # Load the data from the CSV file
     with open(input_csv, mode='r') as file:
@@ -168,7 +168,7 @@ def generate_report_card(input_csv, output_txt):
 
 # Example usage:
 input_csv = 'grades.csv'
-output_txt = 'report_cards.txt'
+output_txt = 'report_cardsM2_new.txt'
 generate_report_card(input_csv, output_txt)
 
 

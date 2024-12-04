@@ -1,0 +1,37 @@
+COMMENTS: S1 SC 22/23 M5 01. Crit A
+1=Weak
+2=#E is able to state/outline and applies scientific knowledge and understanding to suggest solutions to problems set in familiar situations. #E can also apply scientific knowledge to make scientifically supported arguments with a teacher's guidance.
+3=#E needs to practice applying knowledge with worksheets given in class, workbook as well as pre and post lesson questions. #E is encouraged to seek teacher assistance when concepts are unclear or difficult, so that instead of just stating and/or outlining the scientific judgements, #e is able to describe them.
+4=Average
+5=#E is able to describe scientific knowledge and understanding to solve problems set in familiar situations and suggest solutions to problems set in unfamiliar situations. #E interprets information to make scientifically supported arguments.
+6=#E is expected to continue exploring the concepts and connecting it to global context. In order for #m to be able to explain, #e needs to consistently practice applying knowledge to the worksheets given in class, in #h workbook and/or pre as well post lesson questions. Moreover, #e is encouraged to study collaboratively with #h peers.
+7=Strong
+8=#E is able to explain scientific knowledge. #E applies scientific knowledge and understanding to solve problems set in familiar situations and unfamiliar situations. #E could also analyses information to make scientifically supported arguments. #E could integrate generate, sort, connect, elaborate to create a concept map so that #e will be consistent in producing an analytical scientific judgement. Well done! Keep up the good work!
+
+COMMENTS: S1 SC 22/23 M5 02. Crit B
+1=Weak
+2=#N states a problem or question to be tested by a scientific investigation. #E formulates a testable hypothesis using scientific reasoning and knows how to manipulate the variables. #E outlines how relevant data is collected and designs a safe method in which #e selects materials and equipment.
+3=Average
+4=#N outlines a problem or question to be tested by a scientific investigation. #E formulates and explains a testable hypothesis using scientific reasoning. #E describes how to manipulate the variables. #E designs a safe method in which #e selects materials and equipment.
+5=Strong
+6=#N explains a problem or a question to be tested by a scientific investigation. #E formulates and explains a testable hypothesis using correct scientific reasoning and also explains how to manipulate the variables. #E explains how sufficient, relevant data is collected as well as design a logical, complete and safe method in which #e selects materials and equipment. Well done! Keep up the good work!
+
+COMMENTS: S1 SC 22/23 M5 03. Crit C
+1=Weak
+2=#N is able to collect and present data in numerical and/or visual forms. In addition, #e could interpret data and explain results. Is happy to see that #e attempt to outline the validity of a hypothesis and method based on the outcome of a scientific investigation. Finally, #e is able to outline improvements to the method that would benefit the scientific investigation.
+3=Average
+4=#N is able to collect, present and organize data in numerical and/or visual forms. In addition, #e could interpret data and explain results using scientific reason accurately. Not only that #e could evaluate the validity of a hypothesis and method based on the outcome of a scientific investigation, #e is also able to explain the improvements to the method that would benefit the scientific investigation.
+5=Strong
+6=#N is able to collect, present, organize and transform data in numerical and/or visual forms. In addition, #e could interpret data and explain results using scientific reason accurately. Is happy to see that #e could discuss the validity of a hypothesis and method based on the outcome of a scientific investigation. Finally, #e is able to describe the improvements to the method that would benefit the scientific investigation. Well done!
+
+COMMENTS: S1 SC 22/23 M5 04. Crit D
+1=Weak
+2=#E is able to outline/describe the ways in which science is used to address a specific problem or issue. #E could outline/describe the implications of using science to solve a specific problem. #E applies scientific language to communicate understanding but does so with limited success. #E documents sources with the teacher's guidance. #E is encouraged to read science news regularly on various media.
+3=#E is also encouraged to practice researching using the guided examples given in class or by using BIG 6 skills so that #e is able to describe the ways in which science is applied and used to address a specific problem or issue and discuss the implications. In addition to this, reviewing rubrics given for specific tasks before submitting work is highly encouraged to improve the quality of work.
+4=#E could use criterion D sentence starters/templates to enhance the information literacy skills.
+5=Average
+6=#E is able to describe the ways in which science is used to address a specific problem or issue. #E could discuss the implications of using science to solve that specific problem. #E usually applies scientific language to communicate understanding and could document sources correctly but not completely. #E is encouraged to expand #h general knowledge of Science by exploring various resources such as scientific magazines, scientific documentaries on youtube, etc.
+7=Going through the rubrics before submitting work to ensure all required components are addressed will improve grades. #E is encouraged to consistently use scientific terminology when in #h writing. It will be a good idea to incorporate Generate-Sort-Connect-Elaborate model, or research using the Big 6 so that you are able to discuss and evaluate the implications of using science and its application to solve a specific problem or issue.
+8=#E could use criterion D sentence starters/templates to enhance information literacy skills.
+9=Strong
+10=#E explains the ways in which science is used to address a specific problem or issue. #E discusses and evaluates the implications of using science to solve for a specific problem. #E has consistently applied scientific language to communicate understanding clearly and has accurately documented #h sources. Well done! Keep up the good work!
